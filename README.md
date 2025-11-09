@@ -1,6 +1,7 @@
 # Movie-Spoiler
 Spoiler Detection in Movie Reviews using DL:  An Chrome extension to classify movie reviews as spoilers or non-spoilers.
 This project aims to detect whether a given movie or book review contains spoilers using Natural Language Processing (NLP) and Deep Learning. The model uses a Bidirectional LSTM (BiLSTM) network to capture contextual meaning from text and classify reviews as spoiler or non-spoiler.
+
 **Features**
   - Text preprocessing and tokenization using Keras Tokenizer
   - Word embedding with Embedding Layer
